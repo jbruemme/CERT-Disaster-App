@@ -16,6 +16,20 @@ These are the imports I used in my application:
 - pandas (For handling csv data)
 - re (For address, phone, and email formatting/validation)
 
+## Running the application
+### Dependencies
+- **Python 3.++**
+- **pandas**
+- **numpy**
+```
+python -m pip install pandas numpy
+```
+### Run the app
+```
+python cert_disaster_app.py
+```
+
+
 ## Features & Functionality
 
 ### **1. Local SQLite Database**
