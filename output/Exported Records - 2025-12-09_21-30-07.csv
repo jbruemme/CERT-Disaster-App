@@ -1,0 +1,7 @@
+id,address,adults,children,pets,dogs,critical_meds,meds_need_refrigerated,has_special_needs,has_propane_tank,has_natural_gas,phone,email,has_medical_training,know_neighbors,has_neighbors_key,wants_newsletter,can_cert_contact,created_at,updated_at
+1,"200 W Test Rd, Phoenix, AZ 85212",2,2,0,,0,,0,0,0,321-321-4321,test@example.com,0.0,0.0,0.0,0.0,0.0,2025-12-09T21:26:21,2025-12-09T21:28:09
+2,"1234 Random St, Denver, CO 80526",1,0,0,,0,,0,0,0,999-999-9999,random@asu.edu,0.0,0.0,0.0,0.0,0.0,2025-12-09T21:26:21,2025-12-09T21:26:21
+3,"887 W ASU Ave, Tempe, AZ 85282",3,2,1,1.0,0,,1,1,0,602-555-4433,family3@example.com,,,,,,2025-12-09T21:26:21,2025-12-09T21:26:21
+4,"456 Test St, Chandler, AZ 85225",2,0,0,,1,,0,0,1,,guy@gmail.com.com,1.0,0.0,0.0,0.0,1.0,2025-12-09T21:26:21,2025-12-09T21:26:21
+5,"9900 Blah Rd, Gilbert, AZ 85234",4,3,1,0.0,1,0.0,0,0,1,480-555-1122,family@yahoo.com,0.0,1.0,0.0,1.0,0.0,2025-12-09T21:26:21,2025-12-09T21:26:21
+6,"100 New Record Rd, Fort Collins, CO 12345",10,4,1,0.0,1,1.0,0,1,0,456-654-1234,jb@asu.edu,0.0,0.0,1.0,1.0,0.0,2025-12-09T21:29:56,2025-12-09T21:29:56

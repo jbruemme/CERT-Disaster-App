@@ -1,0 +1,6 @@
+address,adults,children,pets,dogs,critical_meds,meds_need_refrigerated,has_special_needs,has_propane_tank,has_natural_gas,phone,email,has_medical_training,know_neighbors,has_neighbors_key,wants_newsletter,can_cert_contact
+"100 E Test Rd, Phoenix, AZ 85212",1,1,yes,yes,yes,yes,yes,yes,yes,123-123-1234,test@example.com,yes,yes,yes,yes,yes
+"1234 Random St, Denver, CO 80526",1,0,no,,no,,no,no,no,999-999-9999,random@asu.edu,no,no,no,no,no
+"887 W ASU Ave, Tempe, AZ 85282",3,2,yes,yes,no,,yes,yes,no,602-555-4433,family3@example.com,,,,,
+"456 Test St, Chandler, AZ 85225",2,0,no,,yes,,no,no,yes,,guy@gmail.com.com,yes,no,no,no,yes
+"9900 Blah Rd, Gilbert, AZ 85234",4,3,yes,no,yes,no,no,no,yes,480-555-1122,family@yahoo.com,no,yes,no,yes,no
